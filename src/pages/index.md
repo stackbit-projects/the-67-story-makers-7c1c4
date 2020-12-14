@@ -5,7 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: We are the story makers
-    content: 'to explore a short juicy stories of a new interactive  format  '
+    content: 'to explore a short juicy stories of a new format  '
   - section_id: about
     type: section_content
     title: About
