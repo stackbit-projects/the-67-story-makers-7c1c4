@@ -2,7 +2,7 @@
 title: Home
 hide_title: true
 sections:
-  - section_id: hero
+  - section_id: ''
     type: section_hero
     title: We are the story makers
     content: to discover short juicy stories in a new format
