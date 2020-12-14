@@ -4,10 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: >-
-      We are a team of story makers from around world.   Our stories about
-      everything, and including commercial cases.   We are write mainly in
-      English, Russian, Ukrainian and Spanish languages.
+    title: We are a team of story makers from around world
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
       one to three sentences, but can be changed as you prefer.
