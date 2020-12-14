@@ -8,7 +8,7 @@ sections:
     content: to discover short juicy stories in a new format
   - section_id: about
     type: section_content
-    title: 'can you '
+    title: ''
     content: >-
       This is the "about" excerpt. It can be used to provide a paragraph about
       yourself that people can read on the homepage to get a sense of who you
